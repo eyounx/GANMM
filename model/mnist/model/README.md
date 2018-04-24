@@ -1,1 +1,0 @@
-initialized GAN model
