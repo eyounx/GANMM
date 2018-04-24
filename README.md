@@ -1,5 +1,5 @@
 # GANMM
-GANMM for paper **Mixture of GANs for Clustering** (IJCAI 2018)
+GANMM code for paper **Mixture of GANs for Clustering** (IJCAI 2018)
 
 ## Requirement
 - python 3.5
@@ -18,6 +18,7 @@ python main.py mnist
 # mnist preprocessed by stacked auto-encoder
 python main.py sae_mnist
 ```
+GPU version of TensorFlow is recommended for mnist data set. Tensorflow (CPU) may not support `data_format="NCHW"` in Conv2DBackpropFilter operate.
 
 Two UCI-dataset:
 ```bash
