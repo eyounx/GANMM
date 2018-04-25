@@ -9,7 +9,7 @@ import argparse
 
 parser = argparse.ArgumentParser()
 parser.add_argument("data",type=str,help="mnist, sae_mnist, chara, seg")
-parser.add_argument("--scale",type=float,default=1,help="data scale, [0,1]")
+parser.add_argument("--scale",type=float,default=1,help="data scale, (0,1]")
 args = parser.parse_args()
 
 def inf_train_gen(train_gen):
