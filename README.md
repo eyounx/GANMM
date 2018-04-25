@@ -1,5 +1,6 @@
 # GANMM
-GANMM code for paper **Mixture of GANs for Clustering** (IJCAI 2018)
+GANMM code for the paper
+> Yang Yu, Wen-Ji Zhou. **Mixture of GANs for clustering**. In: Proceedings of the 27th International Joint Conference on Artificial Intelligence (IJCAI'18), Stockholm, Sweden.
 
 ## Requirement
 - python 3.5
