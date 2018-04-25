@@ -12,7 +12,7 @@ GANMM code for paper **Mixture of GANs for Clustering** (IJCAI 2018)
 ## Files
 
 - GANMM.py  implements the algorihtm
-- main.py   demo that uses GANMM to cluster some data sets as in the paper
+- main.py   is the demo that uses GANMM to cluster some data sets as in the paper
 - Data      contains data sets
 - nets      network structure
 - tflib     tensorflow components
