@@ -4,11 +4,11 @@ GANMM code for the paper
 
 ## Requirement
 - python 3.5
-- tensorflow
-- numpy
-- sklearn
 - argparse
 - pickle
+- tensorflow(tested with GPU version) == 1.0.0
+- numpy == 1.12.1
+- sklearn == 0.18.1
 
 ## Files
 
